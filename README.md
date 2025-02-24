@@ -16,12 +16,6 @@
       padding: 10px;
     }
 
-    img {
-      width: 200px;
-      border-radius: 10px;
-      float: left;
-      margin-right: 10px;
-    }
 
     .username {
       font-weight: bold;
@@ -30,7 +24,6 @@
 </head>
 
 <body bgcolor="white">
-  <img src="safinmahmudd.jpg" alt="Safin Mahmud" title="Safin Mahmud">
   <h1 align="center">Safin Mahmud</h1>
   <p class="Username">@safin_mahmud_</p>
   <p>Hi,<br>
